@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
+layout: Heathy Life
+title: "Always be Happy!"
+--- Fury
+Always here
 Use the left arrow to go back!
